@@ -20,10 +20,10 @@
 		</header>
 		<main>
 			<h1>Executive Summary</h1>
-			<p></p>
+			<p>This mobile web application will serve as a medium to obtain contact information of individuals when doing community outreach. The user conducting the community outreach will need to log into the application to access the predetermined form to input consented individual information.</p>
 		</main>
 	</body>
-	<footer>
-
-	</footer>
+<!--	<footer>-->
+<!---->
+<!--	</footer>-->
 </html>
