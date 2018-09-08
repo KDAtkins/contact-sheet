@@ -19,7 +19,8 @@
 			</nav>
 		</header>
 		<main>
-
+			<img src="images/Outreach%20Application%201.png">
+			<img src="images/Outreach%20Application%202.png">
 		</main>
 	</body>
 	<footer>
