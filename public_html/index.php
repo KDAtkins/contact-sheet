@@ -2,9 +2,9 @@
 <html lang="en">
 	<head>
 		<meta charset="utf-8"/>
-		<title>Contact Sheet</title>
+		<title>Outreach App</title>
 	</head>
 	<body>
-		<h1>Contact Sheet</h1>
+		<h1>Outreach App</h1>
 	</body>
 </html>
