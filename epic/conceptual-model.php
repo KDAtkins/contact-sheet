@@ -19,7 +19,26 @@
 			</nav>
 		</header>
 		<main>
-
+			<h1>Conceptual Model</h1>
+			<h2>Profile</h2>
+			<ul>
+				<li>profileID</li>
+				<li>profileActivationToken</li>
+				<li>profileEmail</li>
+				<li>profileHash</li>
+				<li>profileSalt</li>
+				<li>profileUsername</li>
+			</ul>
+			<h2>Contact</h2>
+			<ul>
+				<li>contactID</li>
+				<li>contactFirstName</li>
+				<li>contactLastName</li>
+				<li>contactEmail</li>
+				<li>contactPhone</li>
+				<li>contactCity</li>
+				<li>contactState</li>
+			</ul>
 		</main>
 	</body>
 	<footer>
