@@ -29,7 +29,7 @@
 					<li>She selects one of the assigned forms that presents an option to view contacts previously obtained or to initiate outreach mode.</li>
 					<li>If she selects the option to view contacts obtained, application will then navigate and display contacts with the abilty to filter by date, city, state, & gender.</li>
 					<li>If she selects the option to initiate "outreach" mode, the application will open a form for individuals to input requested personal information.</li>
-					<li>Serena encounters Dante and ask if he has a moment and interested in being contacted regarding local events.</li>
+					<li>Serena encounters Dante and ask if he has a moment and if he's interested in being contacted regarding local events/initiatives.</li>
 				</ol>
 			</div>
 			<h2>Dante's Interaction Flow</h2>
