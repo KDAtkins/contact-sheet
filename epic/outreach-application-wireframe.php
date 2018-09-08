@@ -19,8 +19,8 @@
 			</nav>
 		</header>
 		<main>
-			<img src="images/Outreach%20Application%201.png">
-			<img src="images/Outreach%20Application%202.png">
+			<img src="images/outreach1.png"/>
+			<img src="images/outreach2.png"/>
 		</main>
 	</body>
 	<footer>
