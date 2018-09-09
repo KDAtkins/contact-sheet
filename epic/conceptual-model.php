@@ -29,16 +29,23 @@
 				<li>profileSalt</li>
 				<li>profileUsername</li>
 			</ul>
+			<h2>Index</h2>
+			<ul>
+				<li>indexID</li>
+				<li>indexProfileID</li>
+				<li>indexName</li>
+			</ul>
 			<h2>Contact</h2>
 			<ul>
 				<li>contactID</li>
+				<li>contactIndexID</li>
 				<li>contactFirstName</li>
 				<li>contactLastName</li>
 				<li>contactEmail</li>
 				<li>contactPhone</li>
 				<li>contactCity</li>
 				<li>contactState</li>
-				<li>contactDateTime</li>
+				<li>contactDate</li>
 			</ul>
 		</main>
 	</body>
