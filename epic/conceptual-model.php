@@ -52,7 +52,4 @@
 			<img src="images/outreach-app-erd.png"/>
 		</main>
 	</body>
-	<footer>
-
-	</footer>
 </html>
