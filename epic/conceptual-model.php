@@ -20,7 +20,8 @@
 		</header>
 		<main>
 			<h1>Conceptual Model</h1>
-			<h2>Profile</h2>
+			<h2>Entities</h2>
+			<h3>Profile</h3>
 			<ul>
 				<li>profileID</li>
 				<li>profileActivationToken</li>
@@ -29,13 +30,13 @@
 				<li>profileSalt</li>
 				<li>profileUsername</li>
 			</ul>
-			<h2>Index</h2>
+			<h3>Index</h3>
 			<ul>
 				<li>indexID</li>
 				<li>indexProfileID</li>
 				<li>indexName</li>
 			</ul>
-			<h2>Contact</h2>
+			<h3>Contact</h3>
 			<ul>
 				<li>contactID</li>
 				<li>contactIndexID</li>
