@@ -47,6 +47,7 @@
 				<li>contactState</li>
 				<li>contactDate</li>
 			</ul>
+			<img src="images/outreach-app-erd.png">
 		</main>
 	</body>
 	<footer>
