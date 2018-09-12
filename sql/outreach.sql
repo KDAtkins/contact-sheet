@@ -22,3 +22,18 @@ CREATE TABLE 'index' (
 	FOREIGN KEY (indexProfileID) REFERENCES profile(profileID),
 	PRIMARY KEY (indexID)
 );
+
+CREATE TABLE contact (
+	contactID BINARY(16) NOT NULL,
+	contactIndexID BINARY(16) NOT NULL,
+	contactFirstName VARCHAR(32) NOT NULL,
+	contactLastName VARCHAR(32) NOT NULL,
+	contactEmail VARCHAR(128) NOT NULL,
+	contactPhone VARCHAR(20) NOT NULL,
+	contactCity VARCHAR(255) NOT NULL,
+	contactState VARCHAR(30) NOT NULL,
+	contactDate DATE,
+	INDEX (contactIndexID),
+	FOREIGN KEY (contactIndexID) REFERENCES `index`(indexID),
+	PRIMARY KEY (contactID)
+);
