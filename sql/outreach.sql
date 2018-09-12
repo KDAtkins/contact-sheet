@@ -13,3 +13,12 @@ CREATE TABLE profile (
 	UNIQUE (profileUsername),
 	PRIMARY KEY(profileID)
 );
+
+CREATE TABLE 'index' (
+	indexID BINARY(16) NOT NULL,
+	indexProfileID BINARY(16) NOT NULL,
+	indexName VARCHAR(45) NOT NULL,
+	INDEX (indexProfileID),
+	FOREIGN KEY (indexProfileID) REFERENCES profile(profileID),
+	PRIMARY KEY (indexID)
+);
